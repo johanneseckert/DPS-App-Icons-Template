@@ -1,8 +1,8 @@
 # README
 
-## Template for App Icons 
+## Template for App Icons & Splash Screens
 
-This is a single photoshop template for creating all necessary App artwork with one single command from Photoshop. Includes Icons for iPad, iPhone (each ready for retina), the App Store and Artwork for Android and Google Play.
+This contains a single photoshop template for creating App Icons with one command and an InDesign File to export Splash Screens in required sizes. Includes Icons and Splash Screens for iPad, iPhone (3.5" and 4"), the App Store and Artwork for Android Devices and Google Play.
 
 For details and a how to visit the project page: http://frischmilch.github.com/DPS-App-Icons-Template/
 
@@ -14,8 +14,9 @@ Please notice that this file is under UnLicence (http://unlicense.org/) and can 
 
 ## CREDITS
 
-This is brought to you by Johannes Henseler.
+This is brought to you by Johannes Eckert.
 
 Blog: http://digitalpublishing.tumblr.com
+Website: http://nordsueddesign.de
 
 Follow me on twitter: http://twitter.com/frischmilch
