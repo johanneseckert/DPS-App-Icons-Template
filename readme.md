@@ -1,10 +1,13 @@
 # README
 
-## Template for App Icons & Splash Screens
+## Template for App Icons & Launch Images
 
-This contains a single photoshop template for creating App Icons with one command and an InDesign File to export Splash Screens in required sizes. Includes Icons and Splash Screens for iPad, iPhone (3.5" and 4"), the App Store and Artwork for Android Devices and Google Play.
+This Photoshop Template generates all necessary assets to deliver an App to iPad, iPhone and Android. These Photoshop Files make use of Adobe Generator, which is available in the latest version of Adobe 
+Photoshop CC.
 
 For details and a how to visit the project page: http://frischmilch.github.com/DPS-App-Icons-Template/
+
+For more about Adobe Generator, read this: http://blogs.adobe.com/photoshopdotcom/2013/09/introducing-adobe-generator-for-photoshop-cc.html
 
 
 ## LICENSE
